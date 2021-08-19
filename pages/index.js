@@ -11,6 +11,7 @@ export default function Home() {
 		<>
 			<h1>Firebase</h1>
 			<p>Welcome....</p>
+			<p>Welcome....</p>
 			<a href="/auth">Auth</a>
 			<WriteDb />
 			<ReadDB />
